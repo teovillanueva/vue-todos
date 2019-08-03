@@ -1,4 +1,6 @@
-# todos
+# Todos
+
+Sample todos app written in Vue.js
 
 ## Project setup
 ```
